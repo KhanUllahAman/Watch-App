@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936512083298",
+    "project_id": "insomnia-app-cc555",
+    "storage_bucket": "insomnia-app-cc555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936512083298:android:d800efc437e232ab3f483b",
+        "android_client_info": {
+          "package_name": "com.example.insomnia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD3NNGg405ho_BPukXbvd6cYLhCir4H00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

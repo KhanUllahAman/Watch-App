@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD4qxLzSr12Tn1xNHDVukPgMftu80QvY0I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>936512083298</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.insomniaApp</string>
+	<key>PROJECT_ID</key>
+	<string>insomnia-app-cc555</string>
+	<key>STORAGE_BUCKET</key>
+	<string>insomnia-app-cc555.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:936512083298:ios:4641596a8ebc22fa3f483b</string>
+</dict>
+</plist>
